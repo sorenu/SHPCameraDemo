@@ -1,0 +1,10 @@
+PODS:
+  - SHPCamera (0.0.15)
+
+DEPENDENCIES:
+  - SHPCamera
+
+SPEC CHECKSUMS:
+  SHPCamera: 108be1d8dbfc1c9dfc0c3da348cd921244c38736
+
+COCOAPODS: 0.18.1
